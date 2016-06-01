@@ -1,5 +1,9 @@
 Testing
 
+<<<<<<< HEAD
 Hey, it's Alex
 
 Test Fullmetal2
+=======
+Hey, it's Alex
+>>>>>>> origin/master
