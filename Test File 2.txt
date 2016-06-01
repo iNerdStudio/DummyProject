@@ -1,9 +1,13 @@
 Testing
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hey, it's Alex
 
 Test Fullmetal2
 =======
 Hey, it's Alex
 >>>>>>> origin/master
+=======
+Hey, it's Alex
+>>>>>>> parent of 9cee7b2... thistoolis gay
